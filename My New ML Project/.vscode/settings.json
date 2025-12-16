@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.fontSize": 12,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true
+}
